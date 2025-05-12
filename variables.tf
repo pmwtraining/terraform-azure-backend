@@ -11,7 +11,7 @@ variable "location" {
 
 variable "storage_account_name" {
     type    = string
-    default = "terraformbackend-yourname"
+    default = "terraformbackend-xx"
 }
 
 variable "storage_account_tier" {
